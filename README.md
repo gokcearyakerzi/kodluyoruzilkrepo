@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Frond-End Eğitiminde oluştur
 
 ## Installation
 
-Öncelikle projejeyi clonelayın.
+Öncelikle projeyi clonelayın.
 
 ```
 git clone https://github.com/gokcearyakerzi/kodluyoruzilkrepo.git
